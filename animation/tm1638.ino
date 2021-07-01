@@ -1,4 +1,9 @@
-
+/*
+    A simple, non blocking animation, to test the TM1638 with a custom display
+    No libraries are needed
+    
+    Paolo Loberto - @mrloba81
+*/
 const int strobe = 7;
 const int clock = 9;
 const int data = 8;
