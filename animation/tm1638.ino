@@ -4,9 +4,9 @@
     
     Paolo Loberto - @mrloba81
 */
-const int strobe = 7;
-const int clock = 9;
-const int data = 8;
+const uint8_t strobe = 7;
+const uint8_t clock = 9;
+const uint8_t data = 8;
 
 uint8_t digit = 0x01;
 uint8_t segAddr = 0x00;
